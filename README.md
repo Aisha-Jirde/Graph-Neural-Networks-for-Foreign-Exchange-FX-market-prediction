@@ -26,7 +26,6 @@ Walk-forward validation across four market regimes (2018-2023), five random seed
 - The advantage therefore appears to come from the T-GCN's temporal architecture and joint training, not from the cross-currency graph. The static, unweighted graph with single-feature nodes appears to add noise rather than signal at this prediction horizon.
 - Conclusion: static, hand-designed currency graphs are not straightforwardly advantageous for short-term FX directional forecasting.
 
-The full write-up is in [`dissertation/Dissertation.pdf`](dissertation/Dissertation.pdf).
 
 ## Repository contents
 
